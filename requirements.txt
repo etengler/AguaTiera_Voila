@@ -4,3 +4,4 @@ geemap
 ipywidgets
 pandas
 requests
+python-dotenv
