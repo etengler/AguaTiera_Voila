@@ -1,0 +1,3 @@
+#!/bin/bash
+# Ejecutar Voilà con más información sobre errores
+voila --show_tracebacks=True
